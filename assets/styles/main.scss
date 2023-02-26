@@ -1,0 +1,42 @@
+---
+---
+
+body {
+  background: #fff;
+}
+
+header {
+  padding: 100px 0 50px;
+  font-family: monospace;
+
+  img {
+    border-radius: 3px;
+  }
+
+  h1 {
+    font-size: 26px;
+    line-height: 26px;
+    margin-top: 15px;
+  }
+}
+
+section {
+  font-size: 18px;
+}
+
+footer {
+  color: #999;
+  padding: 50px 0;
+  font-size: 14px;
+  //font-family: 'Ubuntu Mono', monospace;
+
+  a {
+    color: #000;
+  }
+
+  .copyright {
+    font-size: 12px;
+    color: #aaa;
+    font-family: monospace;
+  }
+}
